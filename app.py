@@ -135,8 +135,8 @@ elif menu == "Delete Student":
     if st.button("Delete"):
         if not student_id.strip():
             st.warning("Pleass enter Student ID")
-        elif manager.delete_student(student_id.strip()):
-            st.success("Student Deleted")
+            manager.delete_student(student_id.strip())
+            st.success("Students Deleted")
         else:
             st.error("Student ID  Not Found")
 
