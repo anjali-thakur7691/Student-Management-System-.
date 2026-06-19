@@ -2,8 +2,9 @@
 
 <p align="center">
   <!-- 1. स्टूडेंट वाली कार्टून फोटो सबसे ऊपर सेंटर में आएगी -->
-  <img src="1000043510.jpg" alt="Student Management System Illustration" width="350">
-  <br><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a3eda79-ae06-474d-a419-650e59c65bd1" alt="Cute little girl working on laptop" width="350">
+</p>
   
   <!-- स्लोगन बीच में -->
   <samp><b>✨ "Empowering Campus Operations, One Line of Code at A Time." ✨</b></samp>
