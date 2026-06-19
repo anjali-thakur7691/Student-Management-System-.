@@ -1,16 +1,15 @@
 # 🎓 Student Management System
 
 <p align="center">
-  <!-- 1. स्टूडेंट वाली कार्टून फोटो सबसे ऊपर सेंटर में आएगी -->
-<p align="center">
-  ![cute-little-girl-working-laptop-home-vector-illustration_1142-73342.jpg](https://github.com/user-attachments/assets/7a3eda79-ae06-474d-a419-650e59c65bd1)
-</p>
+  <!-- 1. आपकी कार्टून इलस्ट्रेशन फ़ोटो सबसे ऊपर सेंटर में -->
+  <img src="https://github.com/user-attachments/assets/7a3eda79-ae06-474d-a419-650e59c65bd1" alt="Student Management System Illustration" width="350">
+  <br><br>
   
   <!-- स्लोगन बीच में -->
   <samp><b>✨ "Empowering Campus Operations, One Line of Code at A Time." ✨</b></samp>
   <br><br>
 
-  <!-- 2. आपकी Streamlit App का स्क्रीनशॉट नीचे सेंटर में आएगा -->
+  <!-- 2. आपकी Streamlit App का स्क्रीनशॉट नीचे सेंटर में -->
   <img src="https://github.com/user-attachments/assets/f1dfa568-f96a-49de-86a9-8d21fb855865" alt="Streamlit App Screenshot" width="650" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </p>
 
