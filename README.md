@@ -1,15 +1,17 @@
 # 🎓 Student Management System
 
 <p align="center">
-  <!-- 1. Student Wali Photo (Center Me) -->
-  <img src="https://github.com/user-attachments/assets/f1dfa568-f96a-49de-86a9-8d21fb855865" alt="Student Management System" width="500">
-  
+  <!-- 1. स्टूडेंट वाली कार्टून फोटो सबसे ऊपर सेंटर में आएगी -->
+  <img src="1000043510.jpg" alt="Student Management System Illustration" width="350">
   <br><br>
   
-  <!-- 2. Aapka Streamlit Screenshot (Center Me) -->
-  <img src="1000044141.jpg" alt="Streamlit App Screenshot" width="650">
-</p>
+  <!-- स्लोगन बीच में -->
+  <samp><b>✨ "Empowering Campus Operations, One Line of Code at A Time." ✨</b></samp>
+  <br><br>
 
+  <!-- 2. आपकी Streamlit App का स्क्रीनशॉट नीचे सेंटर में आएगा -->
+  <img src="https://github.com/user-attachments/assets/f1dfa568-f96a-49de-86a9-8d21fb855865" alt="Streamlit App Screenshot" width="650" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</p>
 
 ---
 
