@@ -3,7 +3,7 @@
 <p align="center">
   <!-- 1. स्टूडेंट वाली कार्टून फोटो सबसे ऊपर सेंटर में आएगी -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7a3eda79-ae06-474d-a419-650e59c65bd1" alt="Cute little girl working on laptop" width="350">
+  ![cute-little-girl-working-laptop-home-vector-illustration_1142-73342.jpg](https://github.com/user-attachments/assets/7a3eda79-ae06-474d-a419-650e59c65bd1)
 </p>
   
   <!-- स्लोगन बीच में -->
